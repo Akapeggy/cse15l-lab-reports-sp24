@@ -1,5 +1,5 @@
 # **Lab 1 Report**
----   
+***   
 
 ## **1.1 Using the command 'cd' with no arguments**
 ![Image](cd_1.png)
@@ -48,6 +48,4 @@
 * The absolute path to the working directory was '/workspaces/lecture1/messages' right before the command 'cat' was run.
 * I got this output because the command 'cat' followed by a path to a file as an argument displays the content of that file, which implies the successfulness of the operation.
 * The output is not an error.     
-
-
----
+***
