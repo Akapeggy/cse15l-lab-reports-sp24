@@ -21,8 +21,7 @@
   }
   ```
        
-  * A failure-inducing input for the buggy program, as a JUnit test and any associated code
-       
+  * A failure-inducing input for the buggy program, as a JUnit test and any associated code         
   ```
   import static org.junit.Assert.*;
   import org.junit.*;
@@ -33,10 +32,9 @@
       double[] input1 = {1.0,1.0,2.0,2.0,3.0,5.0,5.0};
       assertEquals(3.0, ArrayExamples.averageWithoutLowest(input1), 0);
     }
-  ```
+  ```     
        
-  * An input that doesn't induce a failure, as a JUnit test and any associated code
-       
+  * An input that doesn't induce a failure, as a JUnit test and any associated code         
   ```
     @Test
     public void testAssendingArr(){
