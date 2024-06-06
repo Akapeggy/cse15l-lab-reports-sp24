@@ -2,12 +2,12 @@
 * ## **Part 1**
   1. The original post from a student with a screenshot showing a symptom and a description of a guess at the bug/some sense of what the failure-inducing input is.
      ```
-     Title: Question on having trouble with method 'reverseInPlace' in ArrayExamples.java
+     Title: Question on having trouble with method `reverseInPlace` in ArrayExamples.java
 
      Hi,
-     I'm having an issue that my test failed on the method 'reverseInPlace' in ArrayExamples.java. I tried to run tests on this method to reverse my array '{1,3,5,7}'. However, the test failed. and the method doesn't seem to
+     I'm having an issue that my test failed on the method `reverseInPlace` in ArrayExamples.java. I tried to run tests on this method to reverse my array '{1,3,5,7}'. However, the test failed. and the method doesn't seem to
      run properly. The symptom shows the output array element does not match the expected one in the correct order. I guess it may be due to the wrong implementation of the for loop. I'm attaching the screenshot of the 'reverseInPlace' method
-     , my test file, and the symptom as following. Please help me out with what causes the error here. I appreaciate it!
+     , my test file, and the symptom below. Please help me out with what causes the error here. I appreaciate it!
      ```
      ArrayExamples.java :
      ![ArrayExamples](ArrayExamples.png)
